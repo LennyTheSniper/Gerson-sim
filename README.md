@@ -1,6 +1,6 @@
-# Gerson Shield Fight
+# Gerson Sim
 
-Gerson Shield Fight is a reflex-based bullet-hell mini-game inspired by Undertale's mechanics. Defend the soul using a directional shield as arrows fly in from all sides. The arrows vary in speed, but all arrive at a steady rhythm—can you keep up?
+Gerson Sim is a reflex-based bullet-hell mini-game inspired by Undertale's mechanics. Defend the soul using a directional shield as arrows fly in from all sides. The arrows vary in speed, but all arrive at a steady rhythm—can you keep up?
 
 ## 🎮 Gameplay
 
@@ -56,7 +56,7 @@ Download the release (on the right of your screen under 'Releases'), unzip, and 
 
 Created by **LennyTheSniper**
 
-Inspired by Undertale’s combat mini-games.
+Inspired by Undertale and Deltarune’s combat mini-games.
 
 ---
 
